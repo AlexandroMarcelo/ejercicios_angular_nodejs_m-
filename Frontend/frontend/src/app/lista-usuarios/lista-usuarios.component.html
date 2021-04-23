@@ -1,0 +1,7 @@
+<div>
+    <ul>
+        <li *ngFor="let user of users">
+            ID: {{ user.id }}, Nombre: {{ user.nombre }}, Edad: {{ user.edad }}años <button (click)="deleteUser(user.id)">Borrar</button>
+        </li>
+    </ul>
+</div> 

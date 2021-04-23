@@ -11,6 +11,8 @@ Contenedor para alojar los ejercicios de Angular y NodeJS para homolagmiento en 
 
 ## Backend
 
-Aplicación de backend en express usando NodeJS
+Aplicación de backend en express usando NodeJS que permite hacer operaciones CRUD con usuarios
 
+## Frontend
 
+Aplicación en Angular JS para mostar una lista de usuarios y poderlos eliminar
