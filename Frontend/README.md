@@ -33,13 +33,21 @@ ng generate <nombre del componente>
 
 ## Correr localmente
 
-1. Estando en el directorio del proyecto, correr el siguiente comando:
+1. Clonar este repositorio
+
+2. Navegar al directorio raíz de la aplicación (Frontend/frontend) Estando en el directorio del proyecto, correr el siguiente comando:
+
+```bash
+npm install
+```
+
+3. Inicializar el proyecto localmente, corriendo el siguiente comando:
 
 ```bash
 ng serve
 ```
 
-2. Para observar la aplicación, navegar, desde un explorador web, a la ruta:
+4. Para observar la aplicación, navegar, desde un explorador web, a la ruta:
 
 ```
 http://localhost:4200/

@@ -38,13 +38,21 @@ npm install express cors
 
 ## Correr localmente
 
-Navegar a la ruta del proyecto (Backend/) y correr el siguiente comando:
+1. Clonar este repositorio
+
+2. Navegar a la ruta del proyecto (Backend/) e instalar las dependencias con el siguiente comando:
+
+```bash
+npm install
+```
+
+4. Correr la aplicación con el siguiente comando:
 
 ```bash
 npm start
 ```
 
-Utilizar el cliente HTTP y usar las rutas siguientes:
+5. Utilizar el cliente HTTP y usar las rutas siguientes:
 
 URL base: http://localhost:4000
 
