@@ -4,6 +4,7 @@ Autor: Alexandro Marcelo
 Fecha de creación: 21/04/2021
 
 Aplicación de backend en express usando NodeJS
+Aplicación que permite realizar operaciones CRUD de usuarios a un servicio backend
 
 ## Requerimientos
 
